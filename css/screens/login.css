@@ -56,3 +56,8 @@
   color: inherit;
   font-size: 13px;
 }
+
+.welcome-status-bar {
+  position: absolute;
+  top: 0;
+}
